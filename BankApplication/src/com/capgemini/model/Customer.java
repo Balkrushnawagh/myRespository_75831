@@ -2,6 +2,9 @@ package com.capgemini.model;
 
 public class Customer {
 	
+	
+	
+	String middleName;
 	String firstName;
 	String lastName;
 	String city;
